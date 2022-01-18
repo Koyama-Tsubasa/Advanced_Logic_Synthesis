@@ -1,0 +1,34 @@
+.model sample02
+.inputs a b c d e f
+.outputs g h i
+.names a o665
+0 1
+.names c p665
+0 1
+.names o665 p665 q665
+1- 1
+-1 1
+.names q665 r665
+0 1
+.names a d s665
+1- 1
+-1 1
+.names s665 r665 p665 u665
+1-- 1
+-1- 1
+--1 1
+.names r665 u665 b g
+111 1
+.names s665 h
+0 1
+.names e d f x665
+1-- 1
+-1- 1
+--1 1
+.names x665 y665
+0 1
+.names y665 c q665 i
+1-- 1
+-1- 1
+--1 1
+.end

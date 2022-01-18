@@ -1,0 +1,15 @@
+--- How to compile ---
+
+command:  $ make
+To generate the executable file "map"
+
+command:  $ make clean
+To remove the executable file
+
+
+--- How to run ---
+
+Enter the following command:
+command:  ./<exe> -k <LUT num> <input file> <output file>
+e.g. : 
+$ ./map -k 4 ../blif/10aoi_9symml.blif ../output/10aoi_9symml.blif

@@ -1,0 +1,222 @@
+.model i3
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0 b0 c0 d0 e0 f0 \
+g0 h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0 s0 t0 u0 v0 w0 x0 y0 z0 a1 b1 c1 d1 e1 f1 \
+g1 h1 i1 j1 k1 l1 m1 n1 o1 p1 q1 r1 s1 t1 u1 v1 w1 x1 y1 z1 a2 b2 c2 d2 e2 f2 \
+g2 h2 i2 j2 k2 l2 m2 n2 o2 p2 q2 r2 s2 t2 u2 v2 w2 x2 y2 z2 a3 b3 c3 d3 e3 f3 \
+g3 h3 i3 j3 k3 l3 m3 n3 o3 p3 q3 r3 s3 t3 u3 v3 w3 x3 y3 z3 a4 b4
+.outputs c4 d4 e4 f4 g4 h4
+.names a b c4
+1- 1
+-1 1
+.names c d d4
+1- 1
+-1 1
+.names q r m743
+1- 1
+-1 1
+.names m n n743
+1- 1
+-1 1
+.names g0 h0 o743
+1- 1
+-1 1
+.names i0 j0 p743
+1- 1
+-1 1
+.names c0 d0 q743
+1- 1
+-1 1
+.names e0 f0 r743
+1- 1
+-1 1
+.names i j s743
+1- 1
+-1 1
+.names k l t743
+1- 1
+-1 1
+.names e f u743
+1- 1
+-1 1
+.names g h v743
+1- 1
+-1 1
+.names m743 n743 o743 p743 q743 r743 s743 t743 u743 v743 w743
+1111111111 1
+.names o p x743
+1- 1
+-1 1
+.names s t y743
+1- 1
+-1 1
+.names u v z743
+1- 1
+-1 1
+.names w x a744
+1- 1
+-1 1
+.names y z b744
+1- 1
+-1 1
+.names a0 b0 c744
+1- 1
+-1 1
+.names w743 x743 y743 z743 a744 b744 c744 e4
+1111111 1
+.names w0 x0 e744
+1- 1
+-1 1
+.names s0 t0 f744
+1- 1
+-1 1
+.names m1 n1 g744
+1- 1
+-1 1
+.names o1 p1 h744
+1- 1
+-1 1
+.names i1 j1 i744
+1- 1
+-1 1
+.names k1 l1 j744
+1- 1
+-1 1
+.names o0 p0 k744
+1- 1
+-1 1
+.names q0 r0 l744
+1- 1
+-1 1
+.names k0 l0 m744
+1- 1
+-1 1
+.names m0 n0 n744
+1- 1
+-1 1
+.names e744 f744 g744 h744 i744 j744 k744 l744 m744 n744 o744
+1111111111 1
+.names u0 v0 p744
+1- 1
+-1 1
+.names y0 z0 q744
+1- 1
+-1 1
+.names a1 b1 r744
+1- 1
+-1 1
+.names c1 d1 s744
+1- 1
+-1 1
+.names e1 f1 t744
+1- 1
+-1 1
+.names g1 h1 u744
+1- 1
+-1 1
+.names o744 p744 q744 r744 s744 t744 u744 f4
+1111111 1
+.names c2 d2 w744
+1- 1
+-1 1
+.names y1 z1 x744
+1- 1
+-1 1
+.names s2 t2 y744
+1- 1
+-1 1
+.names u2 v2 z744
+1- 1
+-1 1
+.names o2 p2 a745
+1- 1
+-1 1
+.names q2 r2 b745
+1- 1
+-1 1
+.names u1 v1 c745
+1- 1
+-1 1
+.names w1 x1 d745
+1- 1
+-1 1
+.names q1 r1 e745
+1- 1
+-1 1
+.names s1 t1 f745
+1- 1
+-1 1
+.names w744 x744 y744 z744 a745 b745 c745 d745 e745 f745 g745
+1111111111 1
+.names a2 b2 h745
+1- 1
+-1 1
+.names e2 f2 i745
+1- 1
+-1 1
+.names g2 h2 j745
+1- 1
+-1 1
+.names i2 j2 k745
+1- 1
+-1 1
+.names k2 l2 l745
+1- 1
+-1 1
+.names m2 n2 m745
+1- 1
+-1 1
+.names g745 h745 i745 j745 k745 l745 m745 g4
+1111111 1
+.names i3 j3 o745
+1- 1
+-1 1
+.names e3 f3 p745
+1- 1
+-1 1
+.names y3 z3 q745
+1- 1
+-1 1
+.names a4 b4 r745
+1- 1
+-1 1
+.names u3 v3 s745
+1- 1
+-1 1
+.names w3 x3 t745
+1- 1
+-1 1
+.names a3 b3 u745
+1- 1
+-1 1
+.names c3 d3 v745
+1- 1
+-1 1
+.names w2 x2 w745
+1- 1
+-1 1
+.names y2 z2 x745
+1- 1
+-1 1
+.names o745 p745 q745 r745 s745 t745 u745 v745 w745 x745 y745
+1111111111 1
+.names g3 h3 z745
+1- 1
+-1 1
+.names k3 l3 a746
+1- 1
+-1 1
+.names m3 n3 b746
+1- 1
+-1 1
+.names o3 p3 c746
+1- 1
+-1 1
+.names q3 r3 d746
+1- 1
+-1 1
+.names s3 t3 e746
+1- 1
+-1 1
+.names y745 z745 a746 b746 c746 d746 e746 h4
+1111111 1
+.end

@@ -1,0 +1,398 @@
+.model lif/9symml
+.inputs a b c d e f g h i
+.outputs j
+.names a j797
+0 1
+.names h k797
+0 1
+.names i k797 g l797
+111 1
+.names g m797
+0 1
+.names m797 b d n797
+111 1
+.names l797 n797 o797
+1- 1
+-1 1
+.names e p797
+0 1
+.names o797 p797 c q797
+111 1
+.names p797 i r797
+11 1
+.names m797 e s797
+11 1
+.names r797 s797 t797
+1- 1
+-1 1
+.names f u797
+0 1
+.names t797 u797 c v797
+111 1
+.names i w797
+0 1
+.names c x797
+0 1
+.names e x797 d y797
+111 1
+.names b z797
+0 1
+.names z797 g a798
+11 1
+.names p797 c b798
+11 1
+.names m797 d c798
+11 1
+.names a798 b798 c798 d798
+1-- 1
+-1- 1
+--1 1
+.names d798 f e798
+11 1
+.names d f798
+0 1
+.names g f798 c g798
+111 1
+.names y797 e798 g798 h798
+1-- 1
+-1- 1
+--1 1
+.names w797 h798 i798
+11 1
+.names z797 x797 g i j798
+1111 1
+.names v797 i798 j798 k798
+1-- 1
+-1- 1
+--1 1
+.names k798 h l798
+11 1
+.names w797 c m798
+11 1
+.names x797 e n798
+11 1
+.names m798 n798 o798
+1- 1
+-1 1
+.names f d k797 o798 p798
+1111 1
+.names q797 l798 p798 q798
+1-- 1
+-1- 1
+--1 1
+.names j797 q798 r798
+11 1
+.names p797 d s798
+11 1
+.names f798 e t798
+11 1
+.names s798 t798 u798
+1- 1
+-1 1
+.names k797 g v798
+11 1
+.names m797 h w798
+11 1
+.names v798 w798 x798
+1- 1
+-1 1
+.names u798 u797 x798 y798
+111 1
+.names f798 a z798
+11 1
+.names j797 d a799
+11 1
+.names z798 a799 b799
+1- 1
+-1 1
+.names b799 x797 m797 c799
+111 1
+.names x798 j797 z797 d799
+111 1
+.names f798 c p797 k797 e799
+1111 1
+.names c799 d799 e799 f799
+1-- 1
+-1- 1
+--1 1
+.names f799 f g799
+11 1
+.names u797 e h799
+11 1
+.names p797 d i799
+11 1
+.names h799 i799 j799
+1- 1
+-1 1
+.names j799 c k799
+11 1
+.names f798 c l799
+11 1
+.names x797 d m799
+11 1
+.names l799 m799 n799
+1- 1
+-1 1
+.names n799 b o799
+11 1
+.names f j797 e p799
+111 1
+.names k799 o799 p799 q799
+1-- 1
+-1- 1
+--1 1
+.names q799 m797 k797 r799
+111 1
+.names y798 g799 r799 s799
+1-- 1
+-1- 1
+--1 1
+.names s799 i t799
+11 1
+.names k797 i u799
+11 1
+.names m797 h v799
+11 1
+.names u799 v799 w799
+1- 1
+-1 1
+.names w799 z797 a x799
+111 1
+.names x798 w797 b y799
+111 1
+.names m797 f z799
+11 1
+.names u797 b a800
+11 1
+.names k797 g b800
+11 1
+.names z799 a800 b800 c800
+1-- 1
+-1- 1
+--1 1
+.names c800 j797 e d800
+111 1
+.names x799 y799 d800 e800
+1-- 1
+-1- 1
+--1 1
+.names e800 c f800
+11 1
+.names p797 c g800
+11 1
+.names x797 b h800
+11 1
+.names g800 h800 i800
+1- 1
+-1 1
+.names i800 w797 f j800
+111 1
+.names j797 h k800
+11 1
+.names p797 a l800
+11 1
+.names k800 l800 m800
+1- 1
+-1 1
+.names m800 z797 c n800
+111 1
+.names x797 b k797 e o800
+1111 1
+.names j800 n800 o800 p800
+1-- 1
+-1- 1
+--1 1
+.names p800 g q800
+11 1
+.names m797 p797 b r800
+111 1
+.names g z797 x797 s800
+111 1
+.names r800 s800 t800
+1- 1
+-1 1
+.names h t800 a u800
+111 1
+.names f800 q800 u800 v800
+1-- 1
+-1- 1
+--1 1
+.names f798 v800 w800
+11 1
+.names p797 c b799 f x800
+1111 1
+.names x798 u798 y800
+1- 1
+-1 1
+.names y800 x797 i z800
+111 1
+.names x798 j799 a801
+11 1
+.names f d m797 k797 b801
+1111 1
+.names z800 a801 b801 c801
+1-- 1
+-1- 1
+--1 1
+.names c801 a d801
+11 1
+.names j797 i e801
+11 1
+.names x797 a f801
+11 1
+.names w797 c g801
+11 1
+.names e801 f801 g801 h801
+1-- 1
+-1- 1
+--1 1
+.names e d u797 h801 i801
+1111 1
+.names x800 d801 i801 j801
+1-- 1
+-1- 1
+--1 1
+.names z797 j801 k801
+11 1
+.names m800 f798 i l801
+111 1
+.names w799 p797 f m801
+111 1
+.names p797 g n801
+11 1
+.names u797 d o801
+11 1
+.names m797 e p801
+11 1
+.names n801 o801 p801 q801
+1-- 1
+-1- 1
+--1 1
+.names q801 w797 h r801
+111 1
+.names l801 m801 r801 s801
+1-- 1
+-1- 1
+--1 1
+.names x797 s801 t801
+11 1
+.names k797 g u801
+11 1
+.names m797 e v801
+11 1
+.names u801 v801 w801
+1- 1
+-1 1
+.names w801 x797 i x801
+111 1
+.names k797 c y801
+11 1
+.names x797 g z801
+11 1
+.names y801 z801 a802
+1- 1
+-1 1
+.names a802 j797 d b802
+111 1
+.names f798 a p797 g c802
+1111 1
+.names x801 b802 c802 d802
+1-- 1
+-1- 1
+--1 1
+.names u797 d802 e802
+11 1
+.names j797 p797 n799 f f802
+1111 1
+.names t801 e802 f802 g802
+1-- 1
+-1- 1
+--1 1
+.names g802 b h802
+11 1
+.names z797 h i802
+11 1
+.names u797 c j802
+11 1
+.names k797 f k802
+11 1
+.names i802 j802 k802 l802
+1-- 1
+-1- 1
+--1 1
+.names p797 d l802 g m802
+1111 1
+.names k797 b a n802
+111 1
+.names h u797 d o802
+111 1
+.names n802 o802 p802
+1- 1
+-1 1
+.names p802 m797 c q802
+111 1
+.names p797 h r802
+11 1
+.names f798 e s802
+11 1
+.names r802 s802 t802
+1- 1
+-1 1
+.names z797 t802 u802
+11 1
+.names u802 t800 v802
+1- 1
+-1 1
+.names f v802 a w802
+111 1
+.names u797 d x802
+11 1
+.names x797 f y802
+11 1
+.names x802 y802 z802
+1- 1
+-1 1
+.names z802 k797 b a803
+111 1
+.names x798 z797 f b803
+111 1
+.names f798 h c803
+11 1
+.names j797 d d803
+11 1
+.names c803 d803 e803
+1- 1
+-1 1
+.names e803 u797 g f803
+111 1
+.names a803 b803 f803 g803
+1-- 1
+-1- 1
+--1 1
+.names g803 e h803
+11 1
+.names m802 q802 w802 h803 i803
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names w797 i803 j803
+11 1
+.names x797 b k803
+11 1
+.names z797 c l803
+11 1
+.names k803 l803 m803
+1- 1
+-1 1
+.names u797 a u798 m803 n803
+1111 1
+.names r798 t799 w800 k801 h802 j803 n803 j
+1------ 1
+-1----- 1
+--1---- 1
+---1--- 1
+----1-- 1
+-----1- 1
+------1 1
+.end
