@@ -1,0 +1,17 @@
+.model sample01
+.inputs a b c d e
+.outputs f g
+.names c b d n662
+111 1
+.names a n662 f
+1- 1
+-1 1
+.names c b d r662
+1-- 1
+-1- 1
+--1 1
+.names e r662 n662 t662
+111 1
+.names t662 g
+0 1
+.end
