@@ -1,0 +1,259 @@
+.model i4
+.inputs a b c d e f g h i j k l m n o p q r s t u v w x y z a0 b0 c0 d0 e0 f0 \
+g0 h0 i0 j0 k0 l0 m0 n0 o0 p0 q0 r0 s0 t0 u0 v0 w0 x0 y0 z0 a1 b1 c1 d1 e1 f1 \
+g1 h1 i1 j1 k1 l1 m1 n1 o1 p1 q1 r1 s1 t1 u1 v1 w1 x1 y1 z1 a2 b2 c2 d2 e2 f2 \
+g2 h2 i2 j2 k2 l2 m2 n2 o2 p2 q2 r2 s2 t2 u2 v2 w2 x2 y2 z2 a3 b3 c3 d3 e3 f3 \
+g3 h3 i3 j3 k3 l3 m3 n3 o3 p3 q3 r3 s3 t3 u3 v3 w3 x3 y3 z3 a4 b4 c4 d4 e4 f4 \
+g4 h4 i4 j4 k4 l4 m4 n4 o4 p4 q4 r4 s4 t4 u4 v4 w4 x4 y4 z4 a5 b5 c5 d5 e5 f5 \
+g5 h5 i5 j5 k5 l5 m5 n5 o5 p5 q5 r5 s5 t5 u5 v5 w5 x5 y5 z5 a6 b6 c6 d6 e6 f6 \
+g6 h6 i6 j6
+.outputs k6 l6 m6 n6 o6 p6
+.names a b k6
+11 1
+.names c d l6
+11 1
+.names n0 o0 k0 p0 u837
+1111 1
+.names m1 l1 n1 v837
+111 1
+.names l1 r1 s1 o1 t1 w837
+11111 1
+.names k l x837
+11 1
+.names o1 p1 l1 q1 y837
+1111 1
+.names v837 w837 x837 y837 z837
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names y5 a6 z837 z5 a838
+1111 1
+.names e f b838
+11 1
+.names d1 c1 e1 c838
+111 1
+.names c1 i1 j1 f1 k1 d838
+11111 1
+.names i j e838
+11 1
+.names f1 g1 c1 h1 f838
+1111 1
+.names c838 d838 e838 f838 g838
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names z5 g838 y5 h838
+111 1
+.names l0 k0 m0 i838
+111 1
+.names k0 q0 r0 n0 s0 j838
+11111 1
+.names u0 t0 v0 k838
+111 1
+.names t0 z0 a1 w0 b1 l838
+11111 1
+.names g h m838
+11 1
+.names w0 x0 t0 y0 n838
+1111 1
+.names k838 l838 m838 n838 o838
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names o838 y5 p838
+11 1
+.names u837 a838 b838 h838 i838 j838 p838 m6
+1------ 1
+-1----- 1
+--1---- 1
+---1--- 1
+----1-- 1
+-----1- 1
+------1 1
+.names x1 y1 u1 z1 r838
+1111 1
+.names w2 v2 x2 s838
+111 1
+.names v2 b3 c3 y2 d3 t838
+11111 1
+.names s t u838
+11 1
+.names y2 z2 v2 a3 v838
+1111 1
+.names s838 t838 u838 v838 w838
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names b6 d6 w838 c6 x838
+1111 1
+.names m n y838
+11 1
+.names n2 m2 o2 z838
+111 1
+.names m2 s2 t2 p2 u2 a839
+11111 1
+.names q r b839
+11 1
+.names p2 q2 m2 r2 c839
+1111 1
+.names z838 a839 b839 c839 d839
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names c6 d839 b6 e839
+111 1
+.names v1 u1 w1 f839
+111 1
+.names u1 a2 b2 x1 c2 g839
+11111 1
+.names e2 d2 f2 h839
+111 1
+.names d2 j2 k2 g2 l2 i839
+11111 1
+.names o p j839
+11 1
+.names g2 h2 d2 i2 k839
+1111 1
+.names h839 i839 j839 k839 l839
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names l839 b6 m839
+11 1
+.names r838 x838 y838 e839 f839 g839 m839 n6
+1------ 1
+-1----- 1
+--1---- 1
+---1--- 1
+----1-- 1
+-----1- 1
+------1 1
+.names h3 i3 e3 j3 o839
+1111 1
+.names g4 f4 h4 p839
+111 1
+.names f4 l4 m4 i4 n4 q839
+11111 1
+.names a0 b0 r839
+11 1
+.names i4 j4 f4 k4 s839
+1111 1
+.names p839 q839 r839 s839 t839
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names e6 g6 t839 f6 u839
+1111 1
+.names u v v839
+11 1
+.names x3 w3 y3 w839
+111 1
+.names w3 c4 d4 z3 e4 x839
+11111 1
+.names y z y839
+11 1
+.names z3 a4 w3 b4 z839
+1111 1
+.names w839 x839 y839 z839 a840
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names f6 a840 e6 b840
+111 1
+.names f3 e3 g3 c840
+111 1
+.names e3 k3 l3 h3 m3 d840
+11111 1
+.names o3 n3 p3 e840
+111 1
+.names n3 t3 u3 q3 v3 f840
+11111 1
+.names w x g840
+11 1
+.names q3 r3 n3 s3 h840
+1111 1
+.names e840 f840 g840 h840 i840
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names i840 e6 j840
+11 1
+.names o839 u839 v839 b840 c840 d840 j840 o6
+1------ 1
+-1----- 1
+--1---- 1
+---1--- 1
+----1-- 1
+-----1- 1
+------1 1
+.names r4 s4 o4 t4 l840
+1111 1
+.names q5 p5 r5 m840
+111 1
+.names p5 v5 w5 s5 x5 n840
+11111 1
+.names i0 j0 o840
+11 1
+.names s5 t5 p5 u5 p840
+1111 1
+.names m840 n840 o840 p840 q840
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names h6 j6 q840 i6 r840
+1111 1
+.names c0 d0 s840
+11 1
+.names h5 g5 i5 t840
+111 1
+.names g5 m5 n5 j5 o5 u840
+11111 1
+.names g0 h0 v840
+11 1
+.names j5 k5 g5 l5 w840
+1111 1
+.names t840 u840 v840 w840 x840
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names i6 x840 h6 y840
+111 1
+.names p4 o4 q4 z840
+111 1
+.names o4 u4 v4 r4 w4 a841
+11111 1
+.names y4 x4 z4 b841
+111 1
+.names x4 d5 e5 a5 f5 c841
+11111 1
+.names e0 f0 d841
+11 1
+.names a5 b5 x4 c5 e841
+1111 1
+.names b841 c841 d841 e841 f841
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names f841 h6 g841
+11 1
+.names l840 r840 s840 y840 z840 a841 g841 p6
+1------ 1
+-1----- 1
+--1---- 1
+---1--- 1
+----1-- 1
+-----1- 1
+------1 1
+.end

@@ -1,0 +1,56 @@
+.model CM138
+.inputs a b c d e f
+.outputs g h i j k l m n
+.names d b675
+0 1
+.names f e b675 c675
+1-- 1
+-1- 1
+--1 1
+.names a b c c675 g
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names a e675
+0 1
+.names b e675 c c675 h
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names b g675
+0 1
+.names a g675 c c675 i
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names e675 g675 c c675 j
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names c j675
+0 1
+.names a b j675 c675 k
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names b e675 j675 c675 l
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names a g675 j675 c675 m
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.names e675 g675 j675 c675 n
+1--- 1
+-1-- 1
+--1- 1
+---1 1
+.end
